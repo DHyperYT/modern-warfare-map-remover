@@ -60,6 +60,8 @@ class MapDeleterApp(tk.Tk):
             },
             "Warzone": {
                 "CALDERA": "mp_wz_island",
+                "Verdansk '84": "don4",
+                "Verdansk": "donetsk",
                 "Caldera Archipelago Airbase": "mp_br_tut2",
                 "Rebirth Island": "escape4",
                 "Fortune's Keep": "mp_sm_island_1"

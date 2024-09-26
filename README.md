@@ -8,4 +8,6 @@ Tool to delete unwanted maps from your Steam version of Call of Duty Modern Warf
 4. Use the arrows to select the map you want to delete.
 5. Click on the map name
 
-# THIS WILL NOT WORK FOR THE BATTLE.NET VERSION
+# DON'T DELETE VERDANSK IF YOU HAVE SPECIAL OPS
+
+# THIS WILL NOT WORK FOR THE BATTLE.NET VERSION.

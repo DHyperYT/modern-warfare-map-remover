@@ -12,4 +12,6 @@ Up to 13 GB can be reclaimed
 
 I don't recommend deleting Verdansk if you have special ops
 
+# If you want to add other things like campaign missions or co-op maps yourself make a pull request
+
 # THIS WILL NOT WORK FOR THE BATTLE.NET VERSION.

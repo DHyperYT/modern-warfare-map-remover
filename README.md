@@ -12,4 +12,4 @@ Up to 13 GB can be reclaimed
 
 # If you want to add other things like campaign missions or co-op maps yourself make a pull request
 
-# THIS WILL NOT WORK FOR THE BATTLE.NET VERSION.
+# THIS WILL ONLY WORK FOR THE BATTLE.NET VERSION IF YOU'VE EXTRACTED THE CASC ARCHIVE WHICH I DONT RECOMMEND DOING

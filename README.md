@@ -1,7 +1,5 @@
 # Call of Duty Modern Warfare Map Remover
-Tool to delete unwanted maps from your Steam version of Call of Duty Modern Warfare (2019).
-
-Up to 13 GB can be reclaimed
+Tool to delete unwanted maps from your Steam version or unpacked battle.net version of Call of Duty Modern Warfare (2019).
 
 # How to use
 1. Select your Modern Warfare directory (Steam version)
@@ -11,5 +9,3 @@ Up to 13 GB can be reclaimed
 5. Click on the map name
 
 # If you want to add other things like campaign missions or co-op maps yourself make a pull request
-
-# THIS WILL ONLY WORK FOR THE BATTLE.NET VERSION IF YOU'VE EXTRACTED THE CASC ARCHIVE WHICH I DONT RECOMMEND DOING
